@@ -22,3 +22,4 @@
 |`HAIDAN_PASS`|`c_secure_pass`|无默认值|×|无|
 |`HAIDAN_LOGIN`|`c_secure_login`|无默认值|√|无|
 |`HAIDAN_PRIVACY`|`隐私等级`|1|√|`1`：隐藏用户名首尾 `2`：隐藏用户名 `3`：显示用户名|
+1
